@@ -2,4 +2,6 @@ vendor
 wp-content
 composer.lock
 /node_modules
+# laravel mix compiled files
+mix-manifest.json
 /assets/dist

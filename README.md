@@ -84,10 +84,14 @@ cd wp-content/themes/timber-starter-theme
 npm run dev
 ```
 
+Added browsersync via https://github.com/drud/ddev-browsersync#laravel-mix-configuration, see `.ddev/docker-compose.browsersync.yaml`.
+
 ## TODOs
 
+- [ ] Add suport for `mix.version()`, parse mix-manifest.json
 - [ ] Add bootstrap HTML container, maybe https://bootscore.me/ did all this already?
 - [ ] Use ACF / ACF Pro
 - [ ] Test multi-lang with polylang
 - [ ] Provide example build pipeline with `composer install --no-dev` && `npm run build`
 - [ ] Try vite as well
+- [ ] Can we use `ddev npm ...` inside a specific theme folder from outside?
