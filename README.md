@@ -29,7 +29,7 @@ npm install
 exit
 
 # Activate theme
-ddev wp theme activate timber-starter-theme/theme
+ddev wp theme activate timber-starter-theme
 ddev launch
 ```
 
