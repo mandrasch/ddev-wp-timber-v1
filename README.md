@@ -1,4 +1,4 @@
-# DDEV + WordPress + Timber v2 + LaravelMix (/ Vite)
+# DDEV + WordPress + Timber v1 + LaravelMix (/ Vite)
 
 - [DDEV](https://ddev.readthedocs.io/en/latest/)
 - [Timber v1](https://upstatement.com/timber/)
